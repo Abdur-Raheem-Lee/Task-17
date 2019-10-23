@@ -1,0 +1,31 @@
+[{
+        "id": "1",
+        "title": "React Game",
+        "description": "Card Memory Game where the user needs to match 8 pairs of cards in order to win",
+        "URL": "https://tranquil-reaches-14777.herokuapp.com/"
+    },
+    {
+        "id": "2",
+        "title": "Calculator",
+        "description": "Creating a calculator using React and Boostrap",
+        "URL": "https://hidden-depths-63920.herokuapp.com/"
+    },
+    {
+        "id": "3",
+        "title": "Weather App",
+        "description": "Creating a weather App using React and Bootstrap",
+        "URL": "https://warm-retreat-07614.herokuapp.com/"
+    },
+    {
+        "id": "4",
+        "title": "Company Landing page",
+        "description": "Creating a landing webpage for a transport company",
+        "URL": "https://github.com/Abdur-Raheem-Lee/Task-7_Task-1/blob/master/src/App.js"
+    },
+    {
+        "id": "5",
+        "title": "To Do List",
+        "description": "I had to create that allows users to shop on a online store and add items and buy it",
+        "URL": "https://whispering-reaches-58061.herokuapp.com/"
+    }
+]
